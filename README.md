@@ -2,7 +2,7 @@
 
 Samples of Animation using HeroWidget.
 
-![hero_animation](https://user-images.githubusercontent.com/48902424/125037632-048bbf80-e0b2-11eb-9957-c66ae67b5637.gif)
+![hero_animation]()
 
 # Description
 In first flutter sample, we have list of food items with image, name & þrofie description and that list will animate with Hero animation while jumping to the details view. We have implemented custom transition which slides container to edge of screen and then animate it to respective position in details screen.
