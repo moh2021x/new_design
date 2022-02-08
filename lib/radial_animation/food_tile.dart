@@ -79,6 +79,7 @@ class FoodTile extends AnimatedWidget {
                           topRight: const Radius.circular(0.0),
                         )
                     ),
+                    //
                     child: Text(
                       food.title,
                       style: TextStyle(
